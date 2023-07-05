@@ -58,5 +58,5 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/SPEA2/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/SPEA2/blob/main/Pareto%20front.png)
 
