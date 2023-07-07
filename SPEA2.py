@@ -167,7 +167,7 @@ def main(npop, narch, iter, lb, ub, pc=0.8, eta_c=20, eta_m=20):
             remain = np.where(~delete)[0]
             arch = arch[remain]
             arch_objs = arch_objs[remain]
-            arch_F = F[remain]
+            arch_F = arch_F[remain]
 
             # an improved truncation method
             # k = 0
